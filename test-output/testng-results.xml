@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-13T11:19:18 IST" name="Default suite" finished-at="2024-07-13T11:19:23 IST" duration-ms="4964">
+    <groups>
+    </groups>
+    <test started-at="2024-07-13T11:19:18 IST" name="Default test" finished-at="2024-07-13T11:19:23 IST" duration-ms="4964">
+      <class name="testcase.FirstTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcase.FirstTest@62ddbd7e]" started-at="2024-07-13T11:19:10 IST" name="setUp" finished-at="2024-07-13T11:19:18 IST" duration-ms="8757" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="systemTesting()[pri:1, instance:testcase.FirstTest@62ddbd7e]" started-at="2024-07-13T11:19:18 IST" name="systemTesting" finished-at="2024-07-13T11:19:23 IST" duration-ms="4883" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- systemTesting -->
+        <test-method is-config="true" signature="depreciate()[pri:0, instance:testcase.FirstTest@62ddbd7e]" started-at="2024-07-13T11:19:23 IST" name="depreciate" finished-at="2024-07-13T11:19:24 IST" duration-ms="341" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- depreciate -->
+      </class> <!-- testcase.FirstTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
